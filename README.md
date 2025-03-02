@@ -7,10 +7,10 @@
 - 👀 I’m interested in developer and data structure
 - 🌱 I’m currently learning Next.js , Node.js , Actix Web , Rust Programming
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me eriss.k405@gmail.com
+- 📫 How to reach me n.amphon11a@gmail.com
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=erisk405&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="erisk405" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=amphon11&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="erisk405" style="padding-right:20px;" />
 </p>
 
 <div align="center">
