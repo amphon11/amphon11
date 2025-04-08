@@ -2,10 +2,10 @@
 <br /> 
 <p align="left"> I am a full-stack developer skilled in Next.js, Express, React, and Tailwind CSS. I am focused on building responsive and user-friendly websites.</p>
 
-<p align="left">I am seeking an internship as a Backend Developer, Frontend Developer, or Data Analyst. I enjoy exploring new frameworks like Actix Web to boost backend performance and am open to learning languages like Rust or C for further optimization.</p>
+<p align="left">I am seeking an internship as a Backend Developer, Frontend Developer ,Full Stack Developer, or Data Analyst. I enjoy exploring new frameworks like Actix Web to boost backend performance and I am open to learning languages like Go lang or C for further optimization.</p>
 
 - 👀 I’m interested in developer and data structure
-- 🌱 I’m currently learning Next.js , Node.js , Actix Web , Rust Programming
+- 🌱 I’m currently learning Next.js , Node.js , Golang
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me n.amphon11a@gmail.com
 
