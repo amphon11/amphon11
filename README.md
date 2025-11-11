@@ -1,11 +1,11 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,👋 I’m Amphon! 
 <br /> 
-<p align="left"> I am a full-stack developer skilled in Next.js, Express, React, and Tailwind CSS. I am focused on building responsive and user-friendly websites.</p>
+<p align="left"> I am a Full-Stack Developer specializing in modern JavaScript ecosystems (Next.js, React, Express, pristma, PHP, Tailwind CSS). I build clean, maintainable, and scalable interfaces and APIs. Now seeking a full-time opportunity as a Frontend or Backend Developer—ready to take ownership, learn rapidly, and grow into a long-term contributor.</p>
 
-<p align="left">I am seeking an internship as a Backend Developer, Frontend Developer ,Full Stack Developer, or Data Analyst. I enjoy exploring new frameworks like Actix Web to boost backend performance and I am open to learning languages like Go lang or C for further optimization.</p>
+
 
 - 👀 I’m interested in developer and data structure
-- 🌱 I’m currently learning Next.js , Node.js , Golang
+- 🌱 I’m currently learning Next.js , Node.js , Golang , .Net core
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me n.amphon11a@gmail.com
 
